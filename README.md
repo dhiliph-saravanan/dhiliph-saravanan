@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Dhiliph Saravanan
 
-<!--
-**dhiliph-saravanan/dhiliph-saravanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer from Tamil Nadu, India 🇮🇳
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Science Engineer
+- Flutter Developer
+- Java Developer
+- React Developer
+- Learning Spring Boot
+- Interested in Cloud Security & IoT
+
+## 💻 Tech Stack
+
+Java
+Spring Boot
+Flutter
+Dart
+React
+Node.js
+Express.js
+PostgreSQL
+Git
+GitHub
+
+## 🚀 Projects
+
+### Smart Ventilation System
+IoT-based fruit ripening monitoring system using ESP32.
+
+### Cloud Leakage Detection
+AWS cloud security monitoring and leakage detection.
+
+### Thejus Shop Management
+Flutter + Express + PostgreSQL application.
+
+### Destiny Dive
+Career guidance platform for students.
+
+## 📫 Connect With Me
+
+LinkedIn: Your Link
+
+Email: dhiliphsaranan@gmail.com
