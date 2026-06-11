@@ -146,7 +146,7 @@ Cloud security monitoring project focused on identifying misconfigurations and l
     <img src="https://img.shields.io/badge/Email-dhiliphsaravanan@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="(https://www.linkedin.com/in/dhiliph-saravanan-s-t/)">
+  <a href="https://www.linkedin.com/in/dhiliph-saravanan-s-t/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
