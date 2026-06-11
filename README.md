@@ -40,3 +40,7 @@ Career guidance platform for students.
 LinkedIn: https://www.linkedin.com/in/dhiliph-saravanan-s-t/
 
 Email: dhiliphsaranan@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhiliph-saravanan&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhiliph-saravanan&layout=compact)
