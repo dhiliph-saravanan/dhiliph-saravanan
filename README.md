@@ -1,8 +1,8 @@
 # Hi 👋 I'm Dhiliph Saravanan
 
-Software Developer from Tamil Nadu, India 🇮🇳
+Skilled Full Stack developer, UI&UX Designer and Schema Analyst
 
-## 🚀 About Me
+🚀 About Me
 
 - Computer Science Engineer
 - Flutter Developer
@@ -11,18 +11,18 @@ Software Developer from Tamil Nadu, India 🇮🇳
 - Learning Spring Boot
 - Interested in Cloud Security & IoT
 
-## 💻 Tech Stack
+💻 Tech Stack
 
-Java
-Spring Boot
-Flutter
-Dart
-React
-Node.js
-Express.js
-PostgreSQL
-Git
-GitHub
+- Java
+- Spring Boot
+- Flutter
+- Dart
+- React
+- Node.js
+- Express.js
+- PostgreSQL
+- Git
+- GitHub
 
 ## 🚀 Projects
 
@@ -32,14 +32,11 @@ IoT-based fruit ripening monitoring system using ESP32.
 ### Cloud Leakage Detection
 AWS cloud security monitoring and leakage detection.
 
-### Thejus Shop Management
-Flutter + Express + PostgreSQL application.
-
 ### Destiny Dive
 Career guidance platform for students.
 
 ## 📫 Connect With Me
 
-LinkedIn: Your Link
+LinkedIn: https://www.linkedin.com/in/dhiliph-saravanan-s-t/
 
 Email: dhiliphsaranan@gmail.com
